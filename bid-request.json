@@ -1,0 +1,584 @@
+{
+    "device": {
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36",
+        "height": 657,
+        "width": 1366,
+        "dnt": 0,
+        "language": "en-GB"
+    },
+    "site": {
+        "id": "901",
+        "page": "https://www.tutorialspoint.com/react_native/index.htm",
+        "referrer": "https://www.tutorialspoint.com/react_native/index.htm",
+        "hostname": "www.tutorialspoint.com"
+    },
+    "gdpr": {},
+    "schain": {
+        "ver": "1.0",
+        "complete": 1,
+        "nodes": [
+            {
+                "asi": "valueimpression.com",
+                "sid": "1",
+                "hp": 1
+            }
+        ]
+    },
+    "bids": [
+        {
+            "bidder": "quantumdex",
+            "params": {
+                "siteId": "901",
+                "floorPrice": 0.01
+            },
+            "crumbs": {
+                "pubcid": "43777b2c-d97c-4ae3-97be-ec5a83fc3af2"
+            },
+            "mediaTypes": {
+                "banner": {
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ],
+                        [
+                            250,
+                            250
+                        ],
+                        [
+                            200,
+                            200
+                        ],
+                        [
+                            180,
+                            150
+                        ]
+                    ]
+                }
+            },
+            "adUnitCode": "vi_9012177_942",
+            "transactionId": "0495e2fa-0411-4b2e-b4d7-6f9efaa3ce61",
+            "sizes": [
+                [
+                    300,
+                    250
+                ],
+                [
+                    250,
+                    250
+                ],
+                [
+                    200,
+                    200
+                ],
+                [
+                    180,
+                    150
+                ]
+            ],
+            "bidId": "32778c17272f3909a",
+            "bidderRequestId": "3276175443a6f9bd",
+            "auctionId": "d716925f-d3f0-4d68-b8da-8268c3084321",
+            "src": "client",
+            "bidRequestsCount": 69,
+            "bidderRequestsCount": 69,
+            "bidderWinsCount": 0,
+            "schain": {
+                "ver": "1.0",
+                "complete": 1,
+                "nodes": [
+                    {
+                        "asi": "valueimpression.com",
+                        "sid": "1",
+                        "hp": 1
+                    }
+                ]
+            },
+            "targetKey": 0
+        },
+        {
+            "bidder": "quantumdex",
+            "params": {
+                "siteId": "901",
+                "floorPrice": 0.01
+            },
+            "crumbs": {
+                "pubcid": "43777b2c-d97c-4ae3-97be-ec5a83fc3af2"
+            },
+            "mediaTypes": {
+                "banner": {
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ],
+                        [
+                            250,
+                            250
+                        ],
+                        [
+                            200,
+                            200
+                        ],
+                        [
+                            180,
+                            150
+                        ]
+                    ]
+                }
+            },
+            "adUnitCode": "vi_9017966_141",
+            "transactionId": "1a6b78f1-a345-4ac6-8f43-5f503177830c",
+            "sizes": [
+                [
+                    300,
+                    250
+                ],
+                [
+                    250,
+                    250
+                ],
+                [
+                    200,
+                    200
+                ],
+                [
+                    180,
+                    150
+                ]
+            ],
+            "bidId": "32782cb7956fe978c",
+            "bidderRequestId": "3276175443a6f9bd",
+            "auctionId": "d716925f-d3f0-4d68-b8da-8268c3084321",
+            "src": "client",
+            "bidRequestsCount": 69,
+            "bidderRequestsCount": 69,
+            "bidderWinsCount": 0,
+            "schain": {
+                "ver": "1.0",
+                "complete": 1,
+                "nodes": [
+                    {
+                        "asi": "valueimpression.com",
+                        "sid": "1",
+                        "hp": 1
+                    }
+                ]
+            },
+            "targetKey": 1
+        },
+        {
+            "bidder": "quantumdex",
+            "params": {
+                "siteId": "901",
+                "floorPrice": 0.01
+            },
+            "crumbs": {
+                "pubcid": "43777b2c-d97c-4ae3-97be-ec5a83fc3af2"
+            },
+            "mediaTypes": {
+                "banner": {
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ],
+                        [
+                            250,
+                            250
+                        ],
+                        [
+                            200,
+                            200
+                        ],
+                        [
+                            180,
+                            150
+                        ]
+                    ]
+                }
+            },
+            "adUnitCode": "vi_9017967_974",
+            "transactionId": "30caeca5-7fc2-42ee-a45b-969bc4a644ee",
+            "sizes": [
+                [
+                    300,
+                    250
+                ],
+                [
+                    250,
+                    250
+                ],
+                [
+                    200,
+                    200
+                ],
+                [
+                    180,
+                    150
+                ]
+            ],
+            "bidId": "3279d087aee04e99f",
+            "bidderRequestId": "3276175443a6f9bd",
+            "auctionId": "d716925f-d3f0-4d68-b8da-8268c3084321",
+            "src": "client",
+            "bidRequestsCount": 69,
+            "bidderRequestsCount": 69,
+            "bidderWinsCount": 0,
+            "schain": {
+                "ver": "1.0",
+                "complete": 1,
+                "nodes": [
+                    {
+                        "asi": "valueimpression.com",
+                        "sid": "1",
+                        "hp": 1
+                    }
+                ]
+            },
+            "targetKey": 2
+        },
+        {
+            "bidder": "quantumdex",
+            "params": {
+                "siteId": "901",
+                "floorPrice": 0.01
+            },
+            "crumbs": {
+                "pubcid": "43777b2c-d97c-4ae3-97be-ec5a83fc3af2"
+            },
+            "mediaTypes": {
+                "banner": {
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ],
+                        [
+                            160,
+                            600
+                        ],
+                        [
+                            300,
+                            600
+                        ],
+                        [
+                            250,
+                            250
+                        ],
+                        [
+                            120,
+                            600
+                        ],
+                        [
+                            200,
+                            200
+                        ],
+                        [
+                            180,
+                            150
+                        ]
+                    ]
+                }
+            },
+            "adUnitCode": "vi_9013289_503",
+            "transactionId": "aaaae483-07c6-4886-9eff-24d25307b993",
+            "sizes": [
+                [
+                    300,
+                    250
+                ],
+                [
+                    160,
+                    600
+                ],
+                [
+                    300,
+                    600
+                ],
+                [
+                    250,
+                    250
+                ],
+                [
+                    120,
+                    600
+                ],
+                [
+                    200,
+                    200
+                ],
+                [
+                    180,
+                    150
+                ]
+            ],
+            "bidId": "3280f8c0e809e15b5",
+            "bidderRequestId": "3276175443a6f9bd",
+            "auctionId": "d716925f-d3f0-4d68-b8da-8268c3084321",
+            "src": "client",
+            "bidRequestsCount": 69,
+            "bidderRequestsCount": 69,
+            "bidderWinsCount": 0,
+            "schain": {
+                "ver": "1.0",
+                "complete": 1,
+                "nodes": [
+                    {
+                        "asi": "valueimpression.com",
+                        "sid": "1",
+                        "hp": 1
+                    }
+                ]
+            },
+            "targetKey": 0
+        },
+        {
+            "bidder": "quantumdex",
+            "params": {
+                "siteId": "901",
+                "floorPrice": 0.01
+            },
+            "crumbs": {
+                "pubcid": "43777b2c-d97c-4ae3-97be-ec5a83fc3af2"
+            },
+            "mediaTypes": {
+                "banner": {
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ],
+                        [
+                            336,
+                            280
+                        ],
+                        [
+                            580,
+                            400
+                        ],
+                        [
+                            580,
+                            120
+                        ],
+                        [
+                            580,
+                            110
+                        ],
+                        [
+                            580,
+                            150
+                        ],
+                        [
+                            560,
+                            315
+                        ],
+                        [
+                            540,
+                            185
+                        ],
+                        [
+                            520,
+                            360
+                        ],
+                        [
+                            500,
+                            360
+                        ],
+                        [
+                            500,
+                            200
+                        ],
+                        [
+                            480,
+                            300
+                        ],
+                        [
+                            480,
+                            480
+                        ],
+                        [
+                            480,
+                            360
+                        ],
+                        [
+                            480,
+                            320
+                        ],
+                        [
+                            480,
+                            300
+                        ],
+                        [
+                            460,
+                            360
+                        ],
+                        [
+                            450,
+                            450
+                        ],
+                        [
+                            370,
+                            370
+                        ],
+                        [
+                            360,
+                            250
+                        ],
+                        [
+                            360,
+                            300
+                        ],
+                        [
+                            340,
+                            250
+                        ],
+                        [
+                            340,
+                            280
+                        ],
+                        [
+                            320,
+                            320
+                        ],
+                        [
+                            320,
+                            250
+                        ],
+                        [
+                            320,
+                            240
+                        ]
+                    ]
+                }
+            },
+            "adUnitCode": "vi_9013190_498",
+            "transactionId": "9165f377-c1c8-4046-ba61-7e9bd9cb4099",
+            "sizes": [
+                [
+                    300,
+                    250
+                ],
+                [
+                    336,
+                    280
+                ],
+                [
+                    580,
+                    400
+                ],
+                [
+                    580,
+                    120
+                ],
+                [
+                    580,
+                    110
+                ],
+                [
+                    580,
+                    150
+                ],
+                [
+                    560,
+                    315
+                ],
+                [
+                    540,
+                    185
+                ],
+                [
+                    520,
+                    360
+                ],
+                [
+                    500,
+                    360
+                ],
+                [
+                    500,
+                    200
+                ],
+                [
+                    480,
+                    300
+                ],
+                [
+                    480,
+                    480
+                ],
+                [
+                    480,
+                    360
+                ],
+                [
+                    480,
+                    320
+                ],
+                [
+                    480,
+                    300
+                ],
+                [
+                    460,
+                    360
+                ],
+                [
+                    450,
+                    450
+                ],
+                [
+                    370,
+                    370
+                ],
+                [
+                    360,
+                    250
+                ],
+                [
+                    360,
+                    300
+                ],
+                [
+                    340,
+                    250
+                ],
+                [
+                    340,
+                    280
+                ],
+                [
+                    320,
+                    320
+                ],
+                [
+                    320,
+                    250
+                ],
+                [
+                    320,
+                    240
+                ]
+            ],
+            "bidId": "3281fcd193a92d82b",
+            "bidderRequestId": "3276175443a6f9bd",
+            "auctionId": "d716925f-d3f0-4d68-b8da-8268c3084321",
+            "src": "client",
+            "bidRequestsCount": 69,
+            "bidderRequestsCount": 69,
+            "bidderWinsCount": 0,
+            "schain": {
+                "ver": "1.0",
+                "complete": 1,
+                "nodes": [
+                    {
+                        "asi": "valueimpression.com",
+                        "sid": "1",
+                        "hp": 1
+                    }
+                ]
+            },
+            "targetKey": 0
+        }
+    ]
+}
