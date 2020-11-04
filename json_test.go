@@ -6,6 +6,7 @@ import (
 
 func TestAwesomeToJSON(t *testing.T) {
 	EncodeJson()
+	//EncodeFastJson()
 	t.Skip()
 
 }
