@@ -1,0 +1,104 @@
+{
+    "id": "3B38F6A8DBC21A51",
+    "imp": [
+        {
+            "id": "6E769959B5AAA30D",
+            "banner": {
+                "w": 300,
+                "h": 250,
+                "mimes": [
+                    "image/jpeg",
+                    "image/png",
+                    "image/gif",
+                    "text/html",
+                    "application/javascript"
+                ]
+            },
+            "bidfloor": 0.012,
+            "bidfloorcur": "USD",
+            "secure": 1
+        },
+        {
+            "id": "6E769959B5AAA30D",
+            "banner": {
+                "w": 300,
+                "h": 250,
+                "mimes": [
+                    "image/jpeg",
+                    "image/png",
+                    "image/gif",
+                    "text/html",
+                    "application/javascript"
+                ]
+            },
+            "bidfloor": 0.012,
+            "bidfloorcur": "USD",
+            "secure": 1
+        }{
+            "id": "6E769959B5AAA30D",
+            "banner": {
+                "w": 300,
+                "h": 250,
+                "mimes": [
+                    "image/jpeg",
+                    "image/png",
+                    "image/gif",
+                    "text/html",
+                    "application/javascript"
+                ]
+            },
+            "bidfloor": 0.012,
+            "bidfloorcur": "USD",
+            "secure": 1
+        }
+    ],
+    "site": {
+        "id": "6017635",
+        "domain": "funnyjunk.com",
+        "page": "https://funnyjunk.com/",
+        "publisher": {
+            "id": "285395"
+        }
+    },
+    "device": {
+        "ua": "Mozilla/5.0 (Linux; Android 9; LG-H870) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36",
+        "ip": "37.170.244.9",
+        "geo": {
+            "lat": 48.8582,
+            "lon": 2.3387,
+            "country": "FRA"
+        },
+        "os": "Android",
+        "osv": "9",
+        "devicetype": 4
+    },
+    "regs": {
+        "ext": {
+            "gdpr": 0
+        }
+    },
+    "user": {
+        "id": "f1b74d3a833c138c",
+        "buyeruid": "cda802ba-4614-420c-a78c-5879ea6ab81d"
+    },
+    "at": 1,
+    "tmax": 900,
+    "bcat": [
+        "IAB26"
+    ],
+    "ext": {
+        "payid": "17490423:04740144",
+        "schain": {
+            "complete": 1,
+            "nodes": [
+                {
+                    "asi": "152media.com",
+                    "sid": "285395",
+                    "rid": "3B38F6A8DBC21A51",
+                    "hp": 1
+                }
+            ],
+            "ver": "1.0"
+        }
+    }
+}
